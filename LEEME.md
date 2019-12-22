@@ -1,0 +1,5 @@
+# vbaproyectouno
+Programa que conecta con una base de datos y genera un documento word a partir de esta
+Este proyecto fue creado para una institución gubernamental por lo que, el código es muy especifico con sus funciones. No es por la aplicación en sí que se comparte el código, si no por este ultimo y las funciones que realiza. Para que otras personas puedan aprovecharlo, modificarlo; aprender a programar o aprender a solucionar ciertos problemas que pueden surgir.
+La idea original era realizarlo en Java o Python pero debido a las limitaciones del centro de trabajo se tuvo que obtar por algo más accesible y senccilo, VBA, con el que se puede trabajar en conjunto con las aplicaciones de la paqueteria Office.
+Las funciones que realiza esta aplicacion son: conectarse a una base de datos (en este caso una hoja de Excel, por practicidad del centro de trabajo se opto por esto. Sin embargo se puede ocupar cualquier driver compatible que conecte con una base de datos), hacer una verificación para saber si los datos que se obtienen pertenecen a un conjunto determinado, generar un documento de word con estos mismos datos obtenidos de la BBDD.
